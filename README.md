@@ -56,8 +56,7 @@ Test the create new account by using number phone.
 User should can create a new account.
 
 **Test data:**
-Phone number:3763527299
-User:ana & Pass:1234
+Phone number:3763527299 & User:ana & Pass:1234
 
 
 
