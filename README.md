@@ -2,7 +2,7 @@
 
 Bellow are some Test Case Samples than I wrote while working on previous projects.
 
-................
+
 
 **Description:**
 Test the login by using correct credentials.
@@ -20,7 +20,7 @@ User should be able to login.
 User: test & Pass: 123
 
 
-................
+
 
 
 **Description:**
@@ -39,7 +39,7 @@ User should recived error message.
 User:lore & Pass:1a2b3c
 
 
-................
+
 
 
 **Description:**
